@@ -43,7 +43,7 @@ xhtml1-strict.dtd">
 <iframe
 width="450"
 height="350"
-src="http://maps.google.co.uk/maps?q=moma+new+york
+src="http://maps.google.co.uk/maps?q=moma+new+york.img"
 &amp;output=embed">
 </iframe>
 <h2>Sampil of full logic<h2>
