@@ -15,3 +15,7 @@
 | ----------- | ----------- |
 | read01 | [class1](read01.md) |
 | read02 | [class2](read02.md) |
+| read03 | [class2](java-note.md) |
+| read04 | [class2](Read-Operators-and-Loop.md) |
+| read05 | [class2](read05.md) |
+| read06 | [class6](css-reading.md) |
