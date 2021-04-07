@@ -39,7 +39,7 @@
 | read01 | [class1](Class01.md) |
 | read02 | [class2](Class02.md) |
 | read03 | [class3](Class03.md) |
-| read04 | [class4](class04md)  |
+| read04 | [class4](Class04.md)  |
 | read05 | [class5](class05.md) |
 | read06 | [class6](class06.md) |
 
