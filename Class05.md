@@ -10,4 +10,4 @@ and in CSS3 also allows you to spcify color as hsl values , with an optional opa
   
 The text 
 we read that we can do alot of thing to text and we need it in all of page that we made it there are properties to control the chice of front of the text ,size ,weight ,style and spacing to make text prity
-and there is limited choice of fonts that you ca 
+and there is limited choice of fonts that you can 
