@@ -42,5 +42,6 @@
 | read04 | [class4](Class04.md)  |
 | read05 | [class5](Class05.md) |
 | read06 | [class6](class06.md) |
+| read07 | [class6](Class07.md) |
 
 <link rel="https://github.com/Qusai-Alnonah" href="Abut Us">
